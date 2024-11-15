@@ -1,0 +1,1 @@
+Download zip files and extract to react_game_app/public folder
